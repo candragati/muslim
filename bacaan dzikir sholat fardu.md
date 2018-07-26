@@ -17,7 +17,7 @@ _" Aku memohon ampun kepada Alloh (3x). Ya Alloh, Engkau pemberi keselamatan, da
 <div dir="rtl"><font size = 8>
 لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ ,لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ . اَللَّهُمَّ لاَ مَانِعَ  لِمَا أَعْطَيْتَ وَلاَ  مُعْطِيَ لِمَامَنَعْتَ وَلاَ يَنْفَعُ ذَا الْجَـدِّ مِنْكَ الْجَدُّ
 </font></div>
-<br>
+
 _" Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya  Alloh Yang Mahaesa. Tidak ada sekutu bagi-Nya. Bagi-Nya segala kerajaan dan bagi-Nya segala pujian. Dia Mahakuasa atas segala sesuatu. Ya Alloh, tidak ada yang mencegah apa yang Engkau beri dan tidak ada yang memberi apa yang Engkau cegah. Tidak berguna kekayaan dan kemuliaan itu bagi pemiliknya (selain iman dan amal shalih). Hanya dari-Mu  kekayaan dan kemuliaan&quot; (HR. Bukhari, Muslim,Ahmad,Ibnu Khuzaemah, ad-Darimi, Abu Daud, dan an-Nasai)_
 <br>
 <br>
@@ -26,7 +26,7 @@ _" Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya  Alloh Ya
 لاَ إِلَهَ إِلاَ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ ,لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ.<br>
 لاَحَـوْلَ وَلَاقُـوَّةَ اِلاَّ بِاللهِ ,لاَ إِلَهَ إِلاَ اللهُ وَلاَ نَعْبُدُإِلاَّ إِيَّاهُ ,لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ ,لاَ إِلَهَ إِلاَّ اللهُ مُخْلِصِيْنَ لَهُ الدِّيْنِ وَلَوْكَرِهَ الْكَافِرُوْنَ
 </font></div>
-<br>
+
 _" Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya  Alloh Yang Mahaesa. Tidak ada sekutu bagi-Nya. Bagi-Nya segala kerajaan dan bagi-Nya segala pujian. Dia Mahakuasa atas segala sesuatu. Tidak ada daya dan kekuatan kecuali (dengan pertolongan) Alloh. Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya  Alloh. Kami tidak beribadah kecuali kepada-Nya. Bagi-Nya nikmat, anugerah dan pujian yang baik. Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya Alloh, dengan memurnikan ibadah hanya kepada-Nya, meskipun orang-orang kafir tidak menyukainya&quot;(HR. Muslim, Ahmad, Ibnu Khuzaemah, Abu Daud, dan an-Nasai)_
 <br>
 <br>
@@ -35,7 +35,7 @@ _" Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya  Alloh Ya
 لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ ,لَهُ الْمُلْكُ
 وَلَهُ الْحَمْدُ يُحْـيِىْ وَيُمِــيْتُ وَهُـوَ عَلَى كُلِّ شَـيْئٍ قَـدِيْرٌ
 </font></div>
-<br>
+
 _" Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya Alloh, Yang Mahaesa. Tidak ada sekutu bagi-Nya. Bagi-Nya segala kerajaan dan bagi-Nya segala pujian. Dialah yang menghidupkan (orang yang sudah mati atau memberi ruh janin yang akan dilahirkan) dan yang mematikan. Dialah Yang Mahakuasa atas segala sesuatu&quot; (Khusus ini dibaca 10 x setiap ba&#39;da maghrib dan Subuh) (HR. Ahmad,Tirmidzi)._
 <br>
 <br>
@@ -43,7 +43,7 @@ _" Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya Alloh, Ya
 <div dir="rtl"><font size = 8>
 اللَّهُمَّ أَعِنِّيْ عَلَى ذِكْرِكَ وَشُـكْرِكَ وَحُسْنِ عِبَادَتِكَ
 </font></div>
-<br>
+
 _"Ya Alloh, tolonglah aku untuk berdzikir kepada-Mu, bersyukur kepada-Mu, serta beribadah dengan baik kepada-Mu" (HR. Abu Daud, an-Nasai,Ahmad,al-Hakim)"_
 <br>
 <br>
@@ -51,7 +51,7 @@ _"Ya Alloh, tolonglah aku untuk berdzikir kepada-Mu, bersyukur kepada-Mu, serta 
 <div dir="rtl"><font size = 8>
 سبْحَانَ اللهِ (33x) اَلْحَمْدُللهِ (33x) اَللهُ أَكْبَرُ (33x)
 </font></div>
-<br>
+
 _"Mahasuci Alloh (33 x). Segala puji bagi Alloh (33 x).Alloh Mahabesar (33 x)"_
 <br>
 <br>
@@ -59,7 +59,7 @@ _"Mahasuci Alloh (33 x). Segala puji bagi Alloh (33 x).Alloh Mahabesar (33 x)"_
 <div dir="rtl"><font size = 8>
 لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَّ شَرِيْكَ لَهُ ,لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ
 </font></div>
-<br>
+
 _"Tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan hanya Alloh, Yang Mahaesa, tidak ada sekutu bagi-Nya, bagi-Nya segala kerajaan, bagi-Nya segala pujian. Dialah Yang Mahakuasa atas segala sesuatu". (HR. Muslim, Ahmad, Ibnu Khuzaemah,al-baihaqi)_
 <br>
 <br>
