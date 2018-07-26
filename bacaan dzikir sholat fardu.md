@@ -90,4 +90,4 @@ Lalu membaca ayat : Kursi &quot;Allohu laa ilaaha illa huwal hayyul qoyyuum…&q
 <br>
 <br>
 <br>
-[http://telegram.me/rumahkusurgaku2017](http://telegram.me/rumahkusurgaku2017)
+(http://telegram.me/rumahkusurgaku2017)
