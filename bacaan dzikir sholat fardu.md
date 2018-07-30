@@ -4,11 +4,11 @@
 <br>
 <br>
 <br>
-<div dir="rtl"><font size = 15>
+<div dir="rtl" style="font-size: 22px">
 أسْـتَغْفِرُاللهَ (3x)
 
 اللَّهُمَّ أَنْتَ السَّلَامُ وَ مِنْكَ السَّـلَامُ تَبَارَكْتَ يَاذَاالْجَلَالِ وَ الْإِكْرَام
-</font></div>
+</div>
 
 _" Aku memohon ampun kepada Alloh (3x). Ya Alloh, Engkau pemberi keselamatan, dan dari-Mu keselamatan. Mahasuci Engkau, wahai Robb Pemilik keagungan dan kemuliaan&quot; (1x) (HR. Muslim, Ahmad, Abu Daud, an-Nasai, Ibnu Khuzaemah, ad-Darimi, dan Ibnu Majah)_
 
